@@ -1,5 +1,0 @@
-setuptools
-flask
-pandas
-scikit-learn
-pytest
